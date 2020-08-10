@@ -1,0 +1,6 @@
+preorder : [4:TWICE][2:Blackpink][1:BTS][3:Redvelvet][6:EXO][5:IZONE][7:GFriend]
+inorder : [1:BTS][2:Blackpink][3:Redvelvet][4:TWICE][5:IZONE][6:EXO][7:GFriend]
+LCA of 1 and 7 : [4:TWICE]
+Flatten binary seatch tree
+preorder : [4:TWICE][2:Blackpink][1:BTS][3:Redvelvet][6:EXO][5:IZONE][7:GFriend]
+inorder : [4:TWICE][2:Blackpink][1:BTS][3:Redvelvet][6:EXO][5:IZONE][7:GFriend]

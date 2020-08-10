@@ -1,0 +1,32 @@
+BookSearch does not have any book
+BookSearch cannot find the book
+ADD:	history A4-123
+ADD:	true_romance B5-331
+ADD:	purity_of_dancer C2-112
+ADD:	cats_on_catnip B3-319
+ADD:	deep_learning D2-554
+ADD:	data_structure D7-301
+REMOVE:	history A4-123
+SIZE:	5
+BOOK:	cats_on_catnip
+BOOK:	data_structure
+BOOK:	deep_learning
+BOOK:	purity_of_dancer
+BOOK:	true_romance
+ADD:	friends Z1-342
+ORDER:	2
+ORDER:	data_structure
+BookSearch cannot find the book
+BookSearch cannot find the book
+PRINT_TREE:	
+       pod6               
+      / \       
+     /   \      
+    /     \     
+   /       \    
+   coc4       tr1       
+    \           
+     \          
+     dl3           
+    / \         
+    ds1 f1

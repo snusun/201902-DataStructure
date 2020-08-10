@@ -1,0 +1,5 @@
+Edge: 0 to 1, weight: 2.0
+Edge: 1 to 2, weight: 3.0
+Edge: 0 to 3, weight: 6.0
+Edge: 1 to 4, weight: 5.0
+Total weight: 16

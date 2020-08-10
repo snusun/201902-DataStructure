@@ -1,0 +1,13 @@
+The tree is complete binary tree.
+Value for 1 is  BTS
+preorder : [1:BTS][2:Blackpink][3:Redvelvet][4:TWICE][5:IZONE][6:EXO][7:GFriend]
+Height of this tree is 7
+preorder : [1:BTS][2:Blackpink][3:Redvelvet][5:IZONE][6:EXO][7:GFriend]
+Height of this tree is 6
+preorder : None
+Height of this tree is 0
+preorder : [5:IZONE][2:Blackpink][1:BTS][3:Redvelvet][6:EXO][7:GFriend]
+inorder : [1:BTS][2:Blackpink][3:Redvelvet][5:IZONE][6:EXO][7:GFriend]
+postorder : [1:BTS][3:Redvelvet][2:Blackpink][7:GFriend][6:EXO][5:IZONE]
+Height of this tree is 3
+Value for 5 is  IZONE

@@ -1,0 +1,18 @@
+SET_ITEMS 3
+[ 3 A] [ 2 B] [ 1 C] 
+CHECK
+Unsorted.
+SET_ITEMS 4
+[ 1 A] [ 2 C] [ 2 B] [ 3 D] 
+CHECK
+Sorted, but not stable.
+SET_ITEMS 4
+[ 1 A] [ 2 B] [ 2 C] [ 4 D] 
+CHECK
+Sorted and stable.
+SET_ITEMS 10
+[50 A] [15 B] [15 C] [ 1 D] [10 E] [36 F] [15 G] [ 1 H] [ 3 I] [37 J] 
+STABLE_SORT
+[ 1 D] [ 1 H] [ 3 I] [10 E] [15 B] [15 C] [15 G] [36 F] [37 J] [50 A] 
+CHECK
+Sorted and stable.

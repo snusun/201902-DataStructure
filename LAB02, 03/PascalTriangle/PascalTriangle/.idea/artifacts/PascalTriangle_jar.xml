@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PascalTriangle:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PascalTriangle_jar</output-path>
+    <root id="archive" name="PascalTriangle.jar">
+      <element id="module-output" name="PascalTriangle" />
+    </root>
+  </artifact>
+</component>

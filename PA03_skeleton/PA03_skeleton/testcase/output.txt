@@ -1,0 +1,2 @@
+Sort by keys: [data : 5] [hello : 4] [structure : 1]
+Sort by values: [structure : 1] [hello : 4] [data : 5]

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="StackCalculator skeleton:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StackCalculator_skeleton_jar</output-path>
+    <root id="archive" name="StackCalculator skeleton.jar">
+      <element id="module-output" name="StackCalculator skeleton" />
+    </root>
+  </artifact>
+</component>

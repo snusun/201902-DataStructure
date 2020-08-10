@@ -1,0 +1,13 @@
+insert 4 TWICE
+insert 2 Blackpink
+insert 3 Redvelvet
+insert 1 BTS
+insert 6 EXO
+insert 5 IZONE
+insert 7 GFriend
+preorder
+inorder
+LCA 1 7
+flatten
+preorder
+inorder

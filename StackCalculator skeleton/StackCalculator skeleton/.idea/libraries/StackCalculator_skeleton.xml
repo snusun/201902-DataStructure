@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="StackCalculator skeleton">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/out/artifacts/StackCalculator_skeleton_jar/StackCalculator skeleton.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

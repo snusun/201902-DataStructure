@@ -1,0 +1,16 @@
+op	operand	heap_state
+add	3	3 
+add	5	3 5 
+add	15	3 5 15 
+add	9	3 5 15 9 
+add	10	3 5 15 9 10 
+add	1	1 5 3 9 10 15 
+sort_a		1 3 5 9 10 15 
+		1 3 9 5 10 15 
+add	20	1 3 9 5 10 15 20 
+add	1	1 1 9 3 10 15 20 5 
+remove	15	1 1 5 3 10 9 20 
+add	7	1 1 5 3 10 9 20 7 
+remove	10	1 1 5 3 7 9 20 
+sort_d		20 9 7 5 3 1 1 
+		1 3 1 5 9 7 20 

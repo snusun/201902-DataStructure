@@ -1,0 +1,22 @@
+Union  2 and  3
+Union  1 and  3
+Union  4 and  5
+ 5's ROOT: 4
+Union  1 and  5
+ 5's ROOT: 2
+Union  6 and  7
+Union  6 and  8
+Union  6 and  9
+Union  6 and 10
+Union  6 and 11
+Union  6 and 12
+DIFFER: YES
+GROUPSIZE: 5
+GROUPSIZE: 7
+Union  2 and  8
+ 5's ROOT: 6
+DIFFER: NO
+Union  5 and 13
+GROUPSIZE: 13
+Sample map consists of  3 islands.
+Test map consists of ?? islands.

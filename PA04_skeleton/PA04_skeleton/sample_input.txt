@@ -1,0 +1,21 @@
+create 2 2 2
+insert 132
+insert 709
+insert 1286
+insert 321
+insert 435
+insert 6453
+search 132
+search 709
+search 1286
+search 321
+search 435
+search 6453
+print
+delete 6453
+delete 321
+search 132
+search 321
+search 435
+search 6453
+print

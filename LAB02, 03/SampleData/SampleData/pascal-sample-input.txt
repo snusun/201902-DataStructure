@@ -1,0 +1,7 @@
+binomial 7 3
+binomial 7 4
+binomial 4 2
+binomial 9 6
+binomial 17 7
+draw 5
+draw 15

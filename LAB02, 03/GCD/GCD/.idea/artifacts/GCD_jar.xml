@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="GCD:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GCD_jar</output-path>
+    <root id="archive" name="GCD.jar">
+      <element id="module-output" name="GCD" />
+    </root>
+  </artifact>
+</component>
